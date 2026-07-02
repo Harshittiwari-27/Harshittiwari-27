@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Problem+Solver;Full+Stack+Developer;AI+Explorer;DSA+Enthusiast;Building+Impactful+Systems" />
 </p>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
+<br clear="right"/>
 ---
 
 ## 🚀 About Me
