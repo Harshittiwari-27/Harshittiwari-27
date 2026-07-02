@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
----
+
 
 ## 🚀 About Me
 
@@ -20,6 +20,10 @@ Currently focused on strengthening **Data Structures & Algorithms**, **System De
 - 💬 Ask me about: DSA patterns, React, Graph problems, AI ideas  
 
 ---
+
+
+
+
 
 # 💻 Tech Stack
 
